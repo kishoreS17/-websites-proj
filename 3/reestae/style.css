@@ -1,0 +1,73 @@
+*{padding: 0px;
+margin: 0px;}
+
+.one{
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+}
+.two{
+    color:white;
+    font-size:45px;
+    cursor: none;
+}
+li{
+    color: grey;
+    display: inline; 
+    font-size: 25px;  
+}
+li:hover{
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.box{
+    display: inline-block;
+    width: 200px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 25px;
+    
+    
+   
+}
+
+.ordernow{
+    
+    color: white;
+    margin-top: 10px;
+    background-color: black;
+   margin-left: 40px;
+    margin-right: 40px;
+    padding: 10px;
+}
+h3:hover{
+    cursor: pointer;
+}
+.menu{
+    text-align: center;
+    margin: 60px; 
+}
+
+.contact{
+    background-color: black;
+    padding: 25px;
+
+}
+
+.us,table{
+    color: white; 
+}
+
+
+.send{
+    text-align: center;
+    
+}
+
+td{
+    padding: 2px;
+    
+}
